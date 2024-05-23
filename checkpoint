@@ -1,2 +1,2 @@
-model_checkpoint_path: "pre-trained-model-20ksteps.h5f"
-all_model_checkpoint_paths: "pre-trained-model-20ksteps.h5f"
+model_checkpoint_path: "pre-trained-model-100ksteps.h5f"
+all_model_checkpoint_paths: "pre-trained-model-100ksteps.h5f"
