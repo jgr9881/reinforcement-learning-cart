@@ -12,7 +12,7 @@ The cart can move RIGHT or LEFT
 - Cart Velocity
 - Pole Angle
 - Pole Angular Velocity
-##### Rewards
+##### Rewards :
 Since the goal is to keep the pole upright for as long as possible, a reward of +1 for every step taken. Max score is 500.
 ##### Episode End :
 - Pole Angle > 12°
